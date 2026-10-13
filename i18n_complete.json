@@ -1,0 +1,614 @@
+{
+  "pl": {
+    "translation": {
+      "nav": {
+        "home": "Strona główne",
+        "blog": "Blog",
+        "admin": "Admin",
+        "profile": "Profil",
+        "logout": "Wyloguj się",
+        "howItWorks": "Jak to działa",
+        "benefits": "Korzyści",
+        "pricing": "Cennik",
+        "faq": "FAQ",
+        "login": "Zaloguj się",
+        "register": "Utwórz konto"
+      },
+      "hero": {
+        "badge": "✦ AI do analizy Twojego profilu randkowego",
+        "title": "Tinder potrafi być naprawdę <strong>ciężki</strong>.",
+        "lead": "Zwłaszcza kiedy jesteś zwykłym młodym facetem i próbujesz po prostu kogoś poznać.",
+        "subtitle": "Dostajesz mało matchy, nie wiesz co poprawić, więc zaczynasz zgadywać. MatchBetter analizuje Twój profil i pokazuje Ci konkretne rzeczy, które możesz zmienić.",
+        "cta": "Sprawdź mój profil →",
+        "platforms": "Obsługuje: Tinder, Bumble, Hinge i inne",
+        "firstPhoto": "Pierwsze zdjęcie",
+        "bio": "Bio",
+        "bestPhotoFirst": "Najlepsze zdjęcie na #1",
+        "profile": "Profil",
+        "exampleProfileAlt": "Przykładowy profil",
+        "aiImageNote": "* Zdjęcie profilowe zostało wygenerowane przez AI."
+      },
+      "problem": {
+        "heading": "Jeśli masz mało matchy, nie musi to oznaczać, że coś jest z Tobą nie tak.",
+        "text": "Aplikacja nie pokazuje od razu Twojego charakteru, humoru ani tego, jaki jesteś na żywo. Na początku druga osoba widzi tylko kilka zdjęć, kilka informacji i krótkie bio. Dlatego dobry facet może mieć profil, który po prostu słabo go prezentuje."
+      },
+      "statistics": {
+        "heading": "I tak facetom na aplikacjach często jest trudniej.",
+        "text": "Nie możesz zmienić konkurencji. Możesz zmienić to, co zobaczy osoba trafiająca na Twój profil.",
+        "cta": "Zobacz, co możesz poprawić"
+      },
+      "recognize": {
+        "heading": "Kojarzysz to?",
+        "bubbles": [
+          "Nie rozumiem, dlaczego mam tak mało matchy",
+          "Moja pierwsza fotka pewnie nie jest zbyt dobra",
+          "Może usunę bio?",
+          "Może algorytm mnie nie pokazuje?"
+        ],
+        "conclusion": "Problem w tym, że nadal zgadujesz.",
+        "subconclusion": "Match Better da Ci konkreną odpowiedź"
+      },
+      "audit": {
+        "title": "Wgraj screany twojego profilu",
+        "subtitle": "Zwróć uwagę aby twój opis oraz zdjęcia były dobrze widoczne.",
+        "auditPrice": "39 zł",
+        "termsPrefix": "Przesyłając formularz, akceptujesz nasz ",
+        "termsAnd": " oraz ",
+        "termsConsent": ".",
+        "privacyNote": "Twoje zdjęcia są w 100% bezpieczne. Nie są udostępniane publicznie i zostaną usunięte po analizie.",
+        "startBtn": "Rozpocznij analizę profilu",
+        "payBtn": "Zapłać 39 zł i rozpocznij analizę",
+        "demoBtn": "Zobacz przykładowy raport",
+        "reportTitle": "Twój raport",
+        "reportSubtitle": "Szczegółowa analiza Twojego profilu",
+        "uploadText": "Kliknij lub przeciągnij zdjęcia, aby dodać",
+        "removeImg": "Usuń zdjęcie",
+        "termsError": "Musisz zaakceptować regulamin, aby kontynuować",
+        "loading": "Analizuję Twój profil...",
+        "loginToStart": "Zaloguj się, aby rozpocząć",
+        "photoRating": "Ocena zdjęć",
+        "actionPlan": "Plan działania",
+        "biggestAsset": "Twój największy atut",
+        "bioProposal": "Propozycja opisu bio",
+        "currentBio": "Obecne bio",
+        "noBioText": "Brak tekstu bio",
+        "mbProposal": "Propozycja MatchBetter",
+        "keyImprovements": "Kluczowe usprawnienia",
+        "collapse": "Zwiń",
+        "more": "więcej",
+        "analyzeOther": "Przeanalizuj inny profil",
+        "photoAlt": "Zdjęcie profilowe {{index}}",
+        "previewAlt": "Podgląd {{index}}"
+      },
+      "eyes": {
+        "heading": "Zobacz swój profil oczami drugiej osoby.",
+        "subtitle": "Nie dostajesz tylko oceny. Dostajesz informację, co zmienić i dlaczego.",
+        "scoreLabel": "Ocena jakości profilu",
+        "aiImageNote": "* Przykładowe zdjęcia zostały wygenerowane przez AI.",
+        "statuses": {
+          "keep": "Zostaw",
+          "remove": "Usuń",
+          "similar": "Podobne"
+        },
+        "photos": [
+          {
+            "status": "keep",
+            "text": "✓ Wyraźnie widoczna twarz"
+          },
+          {
+            "status": "remove",
+            "text": "⚠ Słabe światło"
+          },
+          {
+            "status": "keep",
+            "text": "✓ Pokazuje pełną sylwetkę"
+          },
+          {
+            "status": "similar",
+            "text": "⚠ Za dużo podobnych zdjęć"
+          },
+          {
+            "status": "remove",
+            "text": "⚠ Zasłonięta twarz"
+          }
+        ],
+        "summary": [
+          {
+            "type": "good",
+            "text": "✓ Wyraźnie widoczna twarz"
+          },
+          {
+            "type": "warn",
+            "text": "⚠ Słabe światło"
+          },
+          {
+            "type": "good",
+            "text": "✓ Pokazuje zainteresowania"
+          },
+          {
+            "type": "warn",
+            "text": "⚠ Za dużo podobnych zdjęć"
+          }
+        ]
+      },
+      "bioComparison": {
+        "before": {
+          "label": "Przed zmianą",
+          "text": "Lubię podróże, muzykę i dobre jedzenie.",
+          "score": "Niska skuteczność"
+        },
+        "after": {
+          "label": "Po zmianie z MatchBetter",
+          "text": "Student informatyki, nocny kawosz i fan spontanicznych wypadów w góry. Gram w siatkówkę i podobno robię całkiem dobrą carbonarę. Szukam kogoś, z kim można zarówno gdzieś pojechać, jak i śmiać się z totalnych głupot.",
+          "score": "Wysoka skuteczność"
+        },
+        "caption": "Bio tworzone jest na podstawie informacji o Tobie - nie z gotowego szablonu."
+      },
+      "aiAnalysis": {
+        "heading": "Jak analiza AI podnosi Twoje szanse?",
+        "subtitle": "Przekształcamy Twoje materiały w spójny profil, który wyróżnia się w tłumie."
+      },
+      "authenticity": {
+        "line1": "Bez wyreżyserowanych sesji.",
+        "line2": "Bez fałszywych opisów.",
+        "line3": "Bez udawania kogoś innego.",
+        "heading": "Naturalne podejście daje najlepsze rezultaty.",
+        "text": "Nie musisz wynajmować drogiego fotografa ani pisać zmyślonych historii. Sztuczna inteligencja pomaga wyciągnąć to, co najlepsze z Twoich naturalnych ujęć i ubrać w słowa Twoją autentyczną osobowość."
+      },
+      "howItWorks": {
+        "heading": "Jak działa MatchBetter?",
+        "subtitle": "Trzy proste kroki do stworzenia profilu, który przyciąga uwagą.",
+        "step1": {
+          "title": "Dodaj zdjęcia i opis",
+          "description": "Prześlij obecne zdjęcia z aplikacji randkowej oraz krótki opis, który dotychczas stosowałeś."
+        },
+        "step2": {
+          "title": "Analiza sztucznej inteligencji",
+          "description": "Algorytm ocenia m.in. oświetlenie, kadr, mowę ciała oraz ton opisu pod kątem atrakcyjności."
+        },
+        "step3": {
+          "title": "Otrzymaj gotowy raport",
+          "description": "Zyskujesz dedykowane wskazówki, propozytywne poprawki do zdjęć oraz przepisaną, skuteczną bio."
+        }
+      },
+      "aiFlow": {
+        "photos": "Przesłane zdjęcia",
+        "bioText": "Obecne Bio",
+        "analysis": "Skanowanie i ocena AI",
+        "advice": "Spersonalizowany raport i nowe Bio",
+        "materials": "Preferencje i styl"
+      },
+      "benefits": {
+        "heading": "Dlaczego warto?",
+        "benefit1": {
+          "title": "Zdjęcia, które działają",
+          "description": "Dokładnie wiemy, które zdjęcie powinno być pierwsze, a które drugie. Co zrobić, by zdjęcia wyglądały lepiej bez profesjonalnej sesji."
+        },
+        "benefit2": {
+          "title": "Bio, które przyciąga",
+          "description": "Krótkie, nudne bio albo pusty profil - oba działają źle. Pokażemy Ci, jak napisać bio, które zachęci kogoś do przesunięcia w prawo."
+        },
+        "benefit3": {
+          "title": "Autentyczność, która wygrywa",
+          "description": "Nie zmieniamy Ciebie. Pokazujemy Ci, jak lepiej się zaprezentować. Twoja osobowość, tylko lepiej opakowana."
+        }
+      },
+      "comparison": {
+        "heading": "Porównanie dostępnych opcji",
+        "without": {
+          "title": "Samodzielne próby",
+          "quote": "Brak reakcji na profil, ciągłe przesuwanie bez efektu...",
+          "items": [
+            "Mało matchy, nie wiesz czemu",
+            "Zgadujesz, co zrobić",
+            "Ciągle testujesz różne zdjęcia na ślepo",
+            "Nigdy się nie dowiesz, co jest nie tak",
+            "Marnujesz czas"
+          ],
+          "price": "0 zł"
+        },
+        "with": {
+          "title": "MatchBetter AI",
+          "price": "39 zł",
+          "items": [
+            "Konkretna analiza każdego zdjęcia",
+            "Ocena profilu jako całości",
+            "Rekomendacje ułożone w ranking",
+            "Porady oparte na konkretnych danych",
+            "Wiesz dokładnie, co zmienić"
+          ]
+        },
+        "coach": {
+          "title": "Dating Coach",
+          "price": "~ 500-1500 zł",
+          "items": [
+            "✓ Indywidualne podejście",
+            "Bardzo wysoka cena",
+            "Trzeba czekać na terminy",
+            "✓ Wsparcie na żywo",
+            "Brak analizy opartej na danych"
+          ]
+        }
+      },
+      "pricing": {
+        "heading": "Cennik",
+        "auditTitle": "Pełna Audyt Profilu AI",
+        "auditPrice": "39 zł",
+        "auditFeatures": [
+          "Analiza wszystkich zdjęć",
+          "Kompleksowa ocena profilu",
+          "Konkretne rekomendacje",
+          "Raport w formacie PDF"
+        ],
+        "cta": "Zamów audyt profilu",
+        "oneTime": "Jednorazowa opłata • Bez subskrypcji"
+      },
+      "faq": {
+        "heading": "Często zadawane pytania",
+        "items": [
+          {
+            "q": "Czy MatchBetter naprawdę może pomóc mi zdobywać więcej matchy?",
+            "a": "Nie obiecujemy magii. Pokazujemy konkretne błędy w Twoim profilu - złą kolejność zdjęć, słabe bio, brakujące kadry - i mówimy, co z tym zrobić. Lepsza prezentacja realnie zwiększa Twoje szanse."
+          },
+          {
+            "q": "A co jeśli problemem nie jest mój profil, tylko mój wygląd?",
+            "a": "W większości przypadków to nie wygląd jest problemem, tylko sposób jego pokazania. Złe światło, przypadkowa kolejność czy brak kontekstu potrafią zaniżyć nawet dobre zdjęcia. Sprawdzimy, co da się poprawić bez zmieniania Ciebie."
+          },
+          {
+            "q": "Mam prawie zero matchy. Czy analiza ma w ogóle sens?",
+            "a": "Tak - to właśnie wtedy analiza daje najwięcej. Zamiast zgadywać co jest nie tak, dostajesz konkretną listę rzeczy do poprawy w kolejności ważności."
+          },
+          {
+            "q": "Skąd mam wiedzieć, że nie dostanę takich samych porad jak każdy?",
+            "a": "Analiza opiera się na Twoich zdjęciach i Twoim bio, nie na gotowym szablonie. Rekomendacje dotyczą konkretnie tego, co przesłałeś."
+          },
+          {
+            "q": "Czy muszę robić profesjonalną sesję zdjęciową?",
+            "a": "Nie. Najpierw sprawdzamy to, co już masz. Sesja zdjęciowa to opcja, nie wymóg - i warto ją rozważyć dopiero, gdy wiesz, jakich zdjęć konkretnie potrzebujesz."
+          },
+          {
+            "q": "Czy moje zdjęcia są bezpieczne?",
+            "a": "Tak. Twoje zdjęcia są wykorzystywane wyłącznie do przeprowadzenia analizy profilu. Wszystkie przesłane pliki są automatycznie usuwane po zakończeniu analizy i nie są publicznie udostępniane ani pokazywane innym użytkownikom."
+          }
+        ]
+      },
+      "footer": {
+        "description": "Inteligentna analiza Twojego profilu w aplikacjach randkowych. Przestań zgadywać, zacznij randkować lepiej.",
+        "copyright": "© 2026 MatchBetter. Wszelkie prawa zastrzeżone.",
+        "tools": "Narzędzia i zasoby",
+        "legal": "Prawne",
+        "home": "Strona Główna",
+        "blog": "Blog",
+        "terms": "Regulamin",
+        "privacy": "Polityka prywatności"
+      },
+      "finalCta": {
+        "heading": "Gotowy na zmianę swoich wyników?",
+        "subtitle": "Przestań zgadywać, co działa. Uzyskaj profesjonalny audyt w parę minut.",
+        "cta": "Przeanalizuj swój profil"
+      },
+      "profile": {
+        "title": "Panel Użytkownika",
+        "tabProfile": "Dane profilu",
+        "tabHistory": "Historia transakcji",
+        "tabReports": "Poprzednie raporty",
+        "email": "Adres E-mail",
+        "memberSince": "Dołączono",
+        "amount": "Kwota",
+        "status": "Status",
+        "date": "Data",
+        "actions": "Akcje",
+        "download": "Pobierz PDF",
+        "view": "Zobacz",
+        "completed": "Zakończona",
+        "pending": "Oczekująca"
+      }
+    }
+  },
+  "en": {
+    "translation": {
+      "nav": {
+        "home": "Home",
+        "blog": "Blog",
+        "admin": "Admin",
+        "profile": "Profile",
+        "logout": "Log out",
+        "howItWorks": "How It Works",
+        "benefits": "Benefits",
+        "pricing": "Pricing",
+        "faq": "FAQ",
+        "login": "Log In",
+        "register": "Create Account"
+      },
+      "hero": {
+        "badge": "✦ AI-powered analysis of your dating profile",
+        "title": "Tinder can be <strong>really hard</strong>.",
+        "lead": "Especially when you're just a regular young guy trying to meet someone.",
+        "subtitle": "You're getting few matches and don't know what to improve, so you start guessing. MatchBetter analyzes your profile and shows you exactly what you can change.",
+        "cta": "Check my profile →",
+        "platforms": "Works with: Tinder, Bumble, Hinge and others",
+        "firstPhoto": "First photo",
+        "bio": "Bio",
+        "bestPhotoFirst": "Best photo at #1",
+        "profile": "Profile",
+        "exampleProfileAlt": "Example profile",
+        "aiImageNote": "* The profile photo was generated by AI."
+      },
+      "problem": {
+        "heading": "If you're getting few matches, it doesn't necessarily mean there's something wrong with you.",
+        "text": "A dating app doesn't immediately show your personality, sense of humor, or what you're like in real life. At first, the other person only sees a few photos, a few details, and a short bio. That's why even a great guy can have a profile that simply doesn't present him well."
+      },
+      "statistics": {
+        "heading": "And guys often have a harder time on dating apps.",
+        "text": "You can't change the competition. You can change what someone sees when they come across your profile.",
+        "cta": "See what you can improve"
+      },
+      "recognize": {
+        "heading": "Sound familiar?",
+        "bubbles": [
+          "I don't understand why I get so few matches",
+          "My first photo probably isn't that good",
+          "Maybe I should delete my bio?",
+          "Maybe the algorithm isn't showing my profile?"
+        ],
+        "conclusion": "The problem is, you're still guessing.",
+        "subconclusion": "MatchBetter will give you a clear, specific answer."
+      },
+      "audit": {
+        "title": "Upload screenshots of your profile",
+        "subtitle": "Make sure your bio and photos are clearly visible.",
+        "auditPrice": "$9.99",
+        "termsPrefix": "By submitting the form, you accept our ",
+        "termsAnd": " and ",
+        "termsConsent": ".",
+        "privacyNote": "Your photos are 100% safe. They are not shared publicly and will be deleted after analysis.",
+        "startBtn": "Start profile analysis",
+        "payBtn": "Pay $9.99 and start analysis",
+        "demoBtn": "View sample report",
+        "reportTitle": "Your report",
+        "reportSubtitle": "A detailed analysis of your profile",
+        "uploadText": "Click or drag photos here to upload them",
+        "removeImg": "Remove photo",
+        "termsError": "You must accept the Terms of Service to continue",
+        "loading": "Analyzing your profile...",
+        "loginToStart": "Log in to start",
+        "photoRating": "Photo ratings",
+        "actionPlan": "Action plan",
+        "biggestAsset": "Your biggest strength",
+        "bioProposal": "Suggested bio",
+        "currentBio": "Current bio",
+        "noBioText": "No bio provided",
+        "mbProposal": "MatchBetter's suggestion",
+        "keyImprovements": "Key improvements",
+        "collapse": "Collapse",
+        "more": "more",
+        "analyzeOther": "Analyze another profile",
+        "photoAlt": "Profile photo {{index}}",
+        "previewAlt": "Preview {{index}}"
+      },
+      "eyes": {
+        "heading": "See your profile through someone else's eyes.",
+        "subtitle": "You don't just get a rating. You also learn what to change and why.",
+        "scoreLabel": "Profile quality score",
+        "aiImageNote": "* Sample photos were generated by AI.",
+        "statuses": {
+          "keep": "Keep",
+          "remove": "Remove",
+          "similar": "Similar"
+        },
+        "photos": [
+          {
+            "status": "keep",
+            "text": "✓ Face clearly visible"
+          },
+          {
+            "status": "remove",
+            "text": "⚠ Poor lighting"
+          },
+          {
+            "status": "keep",
+            "text": "✓ Shows your full body"
+          },
+          {
+            "status": "similar",
+            "text": "⚠ Too many similar photos"
+          },
+          {
+            "status": "remove",
+            "text": "⚠ Face is obscured"
+          }
+        ],
+        "summary": [
+          {
+            "type": "good",
+            "text": "✓ Face clearly visible"
+          },
+          {
+            "type": "warn",
+            "text": "⚠ Poor lighting"
+          },
+          {
+            "type": "good",
+            "text": "✓ Shows your interests"
+          },
+          {
+            "type": "warn",
+            "text": "⚠ Too many similar photos"
+          }
+        ]
+      },
+      "bioComparison": {
+        "before": {
+          "label": "Before",
+          "text": "I like travel, music, and good food.",
+          "score": "Low effectiveness"
+        },
+        "after": {
+          "label": "After MatchBetter",
+          "text": "Computer science student, night-owl coffee lover, and fan of spontaneous trips to the mountains. I play volleyball and apparently make a pretty good carbonara. I'm looking for someone I can travel with and also laugh with about complete nonsense.",
+          "score": "High effectiveness"
+        },
+        "caption": "Your bio is created based on information about you — not from a generic template."
+      },
+      "aiAnalysis": {
+        "heading": "How does AI analysis increase your chances?",
+        "subtitle": "We turn your materials into a cohesive profile that stands out from the crowd."
+      },
+      "authenticity": {
+        "line1": "No staged photo shoots.",
+        "line2": "No fake bios.",
+        "line3": "No pretending to be someone else.",
+        "heading": "A natural approach delivers the best results.",
+        "text": "You don't need to hire an expensive photographer or make up stories. AI helps bring out the best in your natural photos and put your authentic personality into words."
+      },
+      "howItWorks": {
+        "heading": "How does MatchBetter work?",
+        "subtitle": "Three simple steps to create a profile that grabs attention.",
+        "step1": {
+          "title": "Add your photos and bio",
+          "description": "Upload the photos currently on your dating app profile and the short bio you've been using."
+        },
+        "step2": {
+          "title": "Analysis powered by artificial intelligence",
+          "description": "The algorithm evaluates, among other things, lighting, framing, body language, and the tone of your bio in terms of attractiveness."
+        },
+        "step3": {
+          "title": "Receive your complete report",
+          "description": "You receive personalized tips, specific suggestions for improving your photos, and a rewritten, effective bio."
+        }
+      },
+      "aiFlow": {
+        "photos": "Uploaded photos",
+        "bioText": "Current bio",
+        "analysis": "AI scanning and evaluation",
+        "advice": "Personalized report and new bio",
+        "materials": "Preferences and style"
+      },
+      "benefits": {
+        "heading": "Why is it worth it?",
+        "benefit1": {
+          "title": "Photos that work",
+          "description": "We know exactly which photo should come first and which should come second, and what you can do to make your photos look better without a professional photo shoot."
+        },
+        "benefit2": {
+          "title": "A bio that attracts attention",
+          "description": "A short, boring bio and an empty profile both perform poorly. We'll show you how to write a bio that makes someone want to swipe right."
+        },
+        "benefit3": {
+          "title": "Authenticity that wins",
+          "description": "We don't change who you are. We show you how to present yourself better. It's still your personality — just presented better."
+        }
+      },
+      "comparison": {
+        "heading": "Comparison of the available options",
+        "without": {
+          "title": "Doing it yourself",
+          "quote": "No response to your profile, endless swiping with no results...",
+          "items": [
+            "Few matches and no idea why",
+            "Guessing what you should change",
+            "Constantly testing different photos blindly",
+            "You never find out what's actually wrong",
+            "Wasting your time"
+          ],
+          "price": "$0"
+        },
+        "with": {
+          "title": "MatchBetter AI",
+          "price": "$9.99",
+          "items": [
+            "Detailed analysis of every photo",
+            "Evaluation of your profile as a whole",
+            "Recommendations ranked by priority",
+            "Advice based on specific data",
+            "You know exactly what to change"
+          ]
+        },
+        "coach": {
+          "title": "Dating Coach",
+          "price": "~ $120-$380",
+          "items": [
+            "✓ Personalized approach",
+            "Very high cost",
+            "You have to wait for available appointments",
+            "✓ Live support",
+            "No data-driven analysis"
+          ]
+        }
+      },
+      "pricing": {
+        "heading": "Pricing",
+        "auditTitle": "Full AI Profile Audit",
+        "auditPrice": "$9.99",
+        "auditFeatures": [
+          "Analysis of all photos",
+          "Comprehensive profile assessment",
+          "Specific recommendations",
+          "Report in PDF format"
+        ],
+        "cta": "Order a profile audit",
+        "oneTime": "One-time fee • No subscription"
+      },
+      "faq": {
+        "heading": "Frequently Asked Questions",
+        "items": [
+          {
+            "q": "Can MatchBetter really help me get more matches?",
+            "a": "We don't promise magic. We point out specific problems in your profile — poor photo order, a weak bio, missing types of shots — and tell you what to do about them. A better presentation genuinely increases your chances."
+          },
+          {
+            "q": "What if the problem isn't my profile, but my appearance?",
+            "a": "In most cases, the problem isn't your appearance, but how you present it. Poor lighting, a random photo order, or a lack of context can make even good photos perform worse. We'll check what you can improve without changing who you are."
+          },
+          {
+            "q": "I get almost zero matches. Does an analysis even make sense?",
+            "a": "Yes — that's exactly when the analysis can help the most. Instead of guessing what's wrong, you get a specific list of things to improve, ranked by importance."
+          },
+          {
+            "q": "How do I know I won't get the exact same advice as everyone else?",
+            "a": "The analysis is based on your specific photos and bio, not a generic template. The recommendations are tailored specifically to what you submitted."
+          },
+          {
+            "q": "Do I need a professional photo shoot?",
+            "a": "No. We first check what you already have. A professional photo shoot is an option, not a requirement — and it's worth considering only once you know exactly what kinds of photos you need."
+          },
+          {
+            "q": "Are my photos safe?",
+            "a": "Yes. Your photos are used solely to analyze your profile. All uploaded files are automatically deleted once the analysis is complete and are never shared publicly or shown to other users."
+          }
+        ]
+      },
+      "footer": {
+        "description": "Smart analysis of your dating app profile. Stop guessing and start dating better.",
+        "copyright": "© 2026 MatchBetter. All rights reserved.",
+        "tools": "Tools & Resources",
+        "legal": "Legal",
+        "home": "Home",
+        "blog": "Blog",
+        "terms": "Terms of Service",
+        "privacy": "Privacy Policy"
+      },
+      "finalCta": {
+        "heading": "Ready to improve your results?",
+        "subtitle": "Stop guessing what works. Get a professional profile audit in just a few minutes.",
+        "cta": "Analyze your profile"
+      },
+      "profile": {
+        "title": "User Dashboard",
+        "tabProfile": "Profile details",
+        "tabHistory": "Transaction history",
+        "tabReports": "Previous reports",
+        "email": "Email address",
+        "memberSince": "Member since",
+        "amount": "Amount",
+        "status": "Status",
+        "date": "Date",
+        "actions": "Actions",
+        "download": "Download PDF",
+        "view": "View",
+        "completed": "Completed",
+        "pending": "Pending"
+      }
+    }
+  }
+}

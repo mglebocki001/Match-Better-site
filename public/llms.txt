@@ -1,0 +1,10 @@
+# MatchBetter
+
+> MatchBetter analizuje profile randkowe (Tinder, Bumble, Badoo) za pomocą AI i wskazuje konkretne poprawki zdjęć oraz opisu (bio), które zwiększają liczbę dopasowań.
+
+MatchBetter to płatna, jednorazowa usługa: użytkownik przesyła zrzuty ekranu swojego profilu, a AI generuje szczegółowy raport z oceną każdego zdjęcia, propozycją lepszego bio i konkretnym planem działania.
+
+## Strony
+
+- [Strona główna](https://matchbetter.com.pl/): opis usługi, cennik, przykładowy raport, FAQ
+- [Blog](https://matchbetter.com.pl/blog): artykuły o randkowaniu online i optymalizacji profilu
